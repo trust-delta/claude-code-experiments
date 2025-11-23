@@ -2,7 +2,7 @@
 
 ## 実行方法
 
-/requirements-helper カスタムスラッシュコマンド（spec-helperスキル）を使用
+/requirements-helper カスタムスラッシュコマンド（requirementsスキル）を使用
 
 ## 対話の流れ
 
