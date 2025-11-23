@@ -52,15 +52,3 @@ temp/
 # Test coverage
 coverage/
 .nyc_output/
-
-# Experiment-specific
-# Uncomment if you want to exclude experiment results from version control
-# experiments/*/screenshots/
-# experiments/*/logs/
-
-# Sample TODO app (if used)
-sample-todo-app/node_modules/
-sample-todo-app/dist/
-
-# Personal notes (optional)
-# experiments/*/personal-notes.md
