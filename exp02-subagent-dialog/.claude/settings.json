@@ -1,0 +1,4 @@
+{
+  "agents": ["requirements-definer"],
+  "skills": ["spec-helper"]
+}
