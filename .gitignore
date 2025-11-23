@@ -1,0 +1,66 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+logs/
+
+# Build outputs
+dist/
+build/
+out/
+*.js.map
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Cache
+.cache/
+.parcel-cache/
+.eslintcache
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Experiment-specific
+# Uncomment if you want to exclude experiment results from version control
+# experiments/*/screenshots/
+# experiments/*/logs/
+
+# Sample TODO app (if used)
+sample-todo-app/node_modules/
+sample-todo-app/dist/
+
+# Personal notes (optional)
+# experiments/*/personal-notes.md
