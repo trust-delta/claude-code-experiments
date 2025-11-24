@@ -15,7 +15,7 @@ code .  # IDEで開く
 
 | ID | タイトル | ディレクトリ | 実験日 | ステータス |
 |----|---------|------------|--------|-----------|
-| 01 | サブエージェントの出力伝達検証 | [exp01-subagent-context-isolation/](./exp01-subagent-context-isolation/) | 2025-11-21 | ✅ 完了 |
+| 01 | サブエージェントのコンテキスト分離レベルの確認 | [exp01-subagent-context-isolation/](./exp01-subagent-context-isolation/) | 2025-11-21 | ✅ 完了 |
 | 02 | 対話的タスクにおけるサブエージェントの挙動 | [exp02-subagent-dialog/](./exp02-subagent-dialog/) | 2025-11-23 | ✅ 完了 |
 
 ## ドキュメント
