@@ -7,7 +7,7 @@ Claude Codeの挙動を体系的に実験・検証するリポジトリです。
 各実験ディレクトリをIDEで開いてClaude Codeを使用してください。
 
 ```bash
-cd exp02-subagent-dialog
+cd exp01-subagent-context-isolation
 code .  # IDEで開く
 ```
 
@@ -15,7 +15,7 @@ code .  # IDEで開く
 
 | ID | タイトル | ディレクトリ | 実験日 | ステータス |
 |----|---------|------------|--------|-----------|
-| 01 | サブエージェントの出力伝達検証 | exp01-subagent-output/ | 2025-11-XX | ✅ 完了(未作成) |
+| 01 | サブエージェントの出力伝達検証 | [exp01-subagent-context-isolation/](./exp01-subagent-context-isolation/) | 2025-11-21 | ✅ 完了 |
 | 02 | 対話的タスクにおけるサブエージェントの挙動 | [exp02-subagent-dialog/](./exp02-subagent-dialog/) | 2025-11-23 | ✅ 完了 |
 
 ## ドキュメント
