@@ -3,8 +3,7 @@
 ## 実験環境
 
 - **実験日**: 2025-11-23
-- **Claude Code バージョン**: (実験時に記入)
-- **Claude モデル**: Claude Sonnet 4.5
+- **Claude モデル**: claude-sonnet-4-5-20250929
 
 ## 目的
 
